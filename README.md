@@ -4,34 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>FER2025 README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f8f9fa;
-      color: #333;
-    }
-    h1, h2 {
-      color: #0056b3;
-    }
-    code {
-      background-color: #eaeaea;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      margin-left: 20px;
-    }
-  </style>
 </head>
 <body>
 

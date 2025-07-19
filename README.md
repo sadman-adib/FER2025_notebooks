@@ -16,7 +16,6 @@
     <li>Object detection with bounding boxes</li>
     <li>Preprocessing: Grayscale, 640×640 resize, auto-orientation</li>
     <li>Dataset: 3,176 images, 5,160 annotations</li>
-    <li>Formats: YOLO (TXT) & COCO (JSON)</li>
   </ul>
 
   <h2>Models Trained</h2>

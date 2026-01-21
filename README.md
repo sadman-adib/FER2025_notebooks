@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>FER2025: Facial Emotion Recognition with Gender Classification</h1>
+  <h1>Explainable Gender-Aware Facial Emotion Recognition Using a Curated Dataset and a Hybrid Object Detection Framework</h1>
 
   <p><strong>FER2025</strong> is a deep learning-based project that integrates Facial Emotion Recognition (FER) with Gender Classification using Convolutional Neural Networks (CNNs). This multi-task learning approach improves recognition accuracy by considering gender-specific expression patterns.</p>
 
@@ -15,7 +15,7 @@
     <li>Emotion + Gender classification (12 classes)</li>
     <li>Object detection with bounding boxes</li>
     <li>Preprocessing: Grayscale, 640×640 resize, auto-orientation</li>
-    <li>Dataset: 3,176 images, 5,160 annotations</li>
+    <li>Dataset: 7,386 images, 11,253 annotations</li>
   </ul>
 
   <h2>Models Trained</h2>
@@ -24,14 +24,15 @@
     <li>YOLOv8</li>
     <li>YOLOv11</li>
     <li>YOLOv12</li>
-    <li>RF-DETR (Best Performer)</li>
+    <li>RF-DETR</li>
+    <li>XFDetNet (Best Performer)</li>
   </ul>
 
-  <h2>Best Model (RF-DETR) Performance</h2>
+  <h2>Best Model Performance</h2>
   <ul>
-    <li><strong>Precision:</strong> 0.842</li>
-    <li><strong>Recall:</strong> 0.772</li>
-    <li><strong>mAP@50:</strong> 0.856</li>
+    <li><strong>Precision:</strong> 96.1% </li>
+    <li><strong>Recall:</strong> 99.2% </li>
+    <li><strong>mAP@50:</strong> 99.5 </li>
   </ul>
 
   <h2>Dataset & Access</h2>
